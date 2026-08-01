@@ -2,6 +2,8 @@
 
 A Connect Four rules and search library built on two bitboards.
 
+Play against it compiled to Wasm here: https://thegustafson.com/games/connect-four
+
 ## Use it
 
 Add the crate to your project:
